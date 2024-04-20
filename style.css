@@ -30,7 +30,6 @@
     color: #0c2d57;
 }
 
-
 @media (min-width: 1200px) {
     #header {
         display:inline-block;
@@ -39,4 +38,10 @@
         position:fixed;
         border: 1px solid #0c2d57;
     }
+
+    #home-pic {
+        padding-top: 50px;
+        padding-bottom: 0px;
+    }
 }
+
