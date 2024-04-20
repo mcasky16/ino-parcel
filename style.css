@@ -31,10 +31,12 @@
 }
 
 
-#header {
-    display:inline-block;
-    flex-direction: row;
-    width: 100vw;
-    position:fixed;
-    border: 1px solid #0c2d57;
+@media (min-width: 1200px) {
+    #header {
+        display:inline-block;
+        flex-direction: row;
+        width: 100vw;
+        position:fixed;
+        border: 1px solid #0c2d57;
+    }
 }
