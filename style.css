@@ -10,3 +10,31 @@
     height: 4rem;
     border-radius: .75rem;
   }
+
+
+.bck-grd {
+    background-color: #EFECEC;
+}
+
+
+/* .btn-primary {
+    background-color: #0C2D57;
+} */
+
+
+.btn-secondary {
+    background-color: #FC6736;
+}
+
+.nav-link {
+    color: #0c2d57;
+}
+
+
+#header {
+    display:inline-block;
+    flex-direction: row;
+    width: 100vw;
+    position:fixed;
+    border: 1px solid #0c2d57;
+}
