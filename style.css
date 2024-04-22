@@ -17,13 +17,14 @@
 }
 
 
-/* .btn-primary {
-    background-color: #0C2D57;
-} */
-
 
 .btn-secondary {
     background-color: #FC6736;
+}
+
+.btn-primary {
+    background-color: #FC6736;
+    border: 0px;
 }
 
 .nav-link {
